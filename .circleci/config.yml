@@ -15,9 +15,6 @@ jobs:
       - checkout
       - run: yarn install --ignore-engines
       - run: yarn test
-      - deploy:
-          name: Deploy
-          command: |
-            git config --global user.email $GH_EMAIL
-            git config --global user.name $GH_NAME
+      - run: git config --global user.email $GH_EMAIL
+      - run: git config --global user.name $GH_NAME
       - run: yarn deploy
