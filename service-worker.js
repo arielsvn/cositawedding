@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cositawedding/precache-manifest.aa20e081a21dc151ea75186472f1eceb.js"
+  "/cositawedding/precache-manifest.b06980305c9345337569f73a976a3e6f.js"
 );
 
 workbox.clientsClaim();
