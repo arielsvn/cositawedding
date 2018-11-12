@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/cositawedding/static/js/runtime~main.dffe9750.js"
   },
   {
-    "revision": "f80714e3f357db94f608",
-    "url": "/cositawedding/static/js/main.f80714e3.chunk.js"
+    "revision": "992bbc761754167a4a37",
+    "url": "/cositawedding/static/js/main.992bbc76.chunk.js"
   },
   {
     "revision": "1a2fe23bbee4e72efb16",
     "url": "/cositawedding/static/js/1.1a2fe23b.chunk.js"
   },
   {
-    "revision": "f80714e3f357db94f608",
+    "revision": "992bbc761754167a4a37",
     "url": "/cositawedding/static/css/main.011485d5.chunk.css"
   },
   {
-    "revision": "522ffa8b325f84fbe7cf39838e7c1337",
+    "revision": "7a8ca1532dddaf808357d035a508264f",
     "url": "/cositawedding/index.html"
   }
 ];
