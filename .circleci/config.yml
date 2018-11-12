@@ -11,7 +11,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - 'bf:45:48:f7:6a:d8:9f:32:5d:54:e9:a7:96:6c:af:4b'
+            - '42:ee:f7:29:fc:7f:33:a6:ef:68:28:99:68:ba:fc:b7'
       - checkout
       - run: yarn install --ignore-engines
       - run: yarn test
