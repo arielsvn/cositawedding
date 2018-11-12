@@ -1,7 +1,7 @@
 {
   "main.css": "/cositawedding/static/css/main.011485d5.chunk.css",
-  "main.js": "/cositawedding/static/js/main.992bbc76.chunk.js",
-  "main.js.map": "/cositawedding/static/js/main.992bbc76.chunk.js.map",
+  "main.js": "/cositawedding/static/js/main.dd87e33c.chunk.js",
+  "main.js.map": "/cositawedding/static/js/main.dd87e33c.chunk.js.map",
   "static/js/1.1a2fe23b.chunk.js": "/cositawedding/static/js/1.1a2fe23b.chunk.js",
   "static/js/1.1a2fe23b.chunk.js.map": "/cositawedding/static/js/1.1a2fe23b.chunk.js.map",
   "runtime~main.js": "/cositawedding/static/js/runtime~main.dffe9750.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/cositawedding/static/media/logo.5d5d9eef.svg",
   "static/css/main.011485d5.chunk.css.map": "/cositawedding/static/css/main.011485d5.chunk.css.map",
   "index.html": "/cositawedding/index.html",
-  "precache-manifest.ff129f1c8230335c9468a54ca286dd8a.js": "/cositawedding/precache-manifest.ff129f1c8230335c9468a54ca286dd8a.js",
+  "precache-manifest.65fc7cda1e1c99dee927c690abe4e8d3.js": "/cositawedding/precache-manifest.65fc7cda1e1c99dee927c690abe4e8d3.js",
   "service-worker.js": "/cositawedding/service-worker.js"
 }
