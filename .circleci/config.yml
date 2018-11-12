@@ -10,8 +10,8 @@ jobs:
 
     steps:
       - add_ssh_keys:
-        fingerprints:
-          - 'bf:45:48:f7:6a:d8:9f:32:5d:54:e9:a7:96:6c:af:4b'
+          fingerprints:
+            - 'bf:45:48:f7:6a:d8:9f:32:5d:54:e9:a7:96:6c:af:4b'
       - checkout
       - run: yarn install --ignore-engines
       - run: yarn test
