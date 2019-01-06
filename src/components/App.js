@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import styled from 'styled-components';
 import usImage from './us.jpg';
@@ -10,7 +9,7 @@ class App extends Component {
       <Container>
         <Title>Ariel % Isabel</Title>
         <Regram>
-          <img src={usImage} />
+          <img src={usImage} alt="us" />
           <div>
             <Hashtag
               href="https://www.instagram.com/cositawedding/"
@@ -63,10 +62,6 @@ const Title = styled.h1`
 
 const Subtitle = styled.h2`
   margin-bottom: 1rem;
-`;
-
-const Img = styled.img`
-  max-width: 100%;
 `;
 
 const Hashtag = styled.a`
