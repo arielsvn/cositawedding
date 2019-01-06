@@ -24,8 +24,8 @@ class App extends Component {
           <Subtitle>SAVE THE DATE</Subtitle>
 
           <Address>
-            Sábado, 20 de abril (4/20, yes!)
-            <br /> Filadelfia, PA
+            Sábado 20 de abril (4/20, yes!)
+            <br /> Filadelfia, Pensilvania
           </Address>
 
           <div>
